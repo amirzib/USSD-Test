@@ -2,14 +2,14 @@
 ---
 ## Section 1: Quick Overview
 #### Overview
-Here we are writing some test about USSD code and gherklin syntax.
+Here we are writing some tests about USSD code and gherklin syntax.
 
 #### Road map
 We expecting we can go throw the steps in USSD correctly.
-In feature others secnario will be written.
+In feature others, scenario will be written.
 
 #### Configuration
-Important configurations are notice in [configuration file](http://192.168.2.20/test-script/ussd-test/-/blob/dev/configurtion.md?ref_type=heads).
+Important configurations are noticed in [configuration file](https://github.com/amirzib/USSD-Test/blob/main/configurtion.md).
 
 #### Change Log
 --
@@ -79,7 +79,7 @@ Maven surfire plugin should be like this:
 ```
 
 #### Folder Structure
-We have our features are in `src/test/resources/feature**.feature` and our steps are in `src/test/java/com/adak/step_defenitions/**.java`
+We have our features in `src/test/resources/feature**.feature` and our steps are in `src/test/java/com/adak/step_defenitions/**.java`
 We have our test runner in `src/test/java/com/adak/Runner/runnerTest.java`
 
 ## Section 3: Acknowledgment
